@@ -8,6 +8,7 @@ A simple GUI Calculator built using **Python** and **Tkinter**.
 - Subtraction
 - Multiplication
 - Division
+- Backspace
 - Clear (AC)
 - Simple and user-friendly interface
 
